@@ -14,6 +14,6 @@ val feodott by developer {
     }
 
     lang(Java, Kotlin, SQL)
-    platform(JMV, Android, AndroidTV)
+    platform(JVM, Android, AndroidTV, AOSP, KMP)
 }
 ```
